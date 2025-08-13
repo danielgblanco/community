@@ -28,8 +28,6 @@
     gcLiaison:
     - name: 'Juraci Paixão Kröhling'
       github: jpkrohling
-    roadmapProjectIDs:
-      - 133
   - name: 'Specification: Configuration'
     meeting: Every other Monday at 08:00 PT
     notes:
